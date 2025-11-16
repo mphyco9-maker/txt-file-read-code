@@ -1,1 +1,6 @@
-
+ else if (isPunctuationChar(line[i])) {
+            cout << "  -> " << line[i] << " is  PUNCTUATION\n";
+            i++;
+        }
+my name is haiya ali(hali) .
+txt_tt is my example , ,, DBD is 14 Feb
